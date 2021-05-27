@@ -1,11 +1,17 @@
-body{
-text-align: center;    
+h1
+{
+	color: black; 
+	font-size: 40px;
 }
-#laptop{
-display: none;
-margin-top: 20px;
-margin-bottom: 20px;    
+.body_backgorund {
+	background-image: Url("1829351.jpg");
+	background-position: center;
+	background-size: cover;
 }
-input{
-margin: 10px;    
+
+#myCanvas{
+border-width: 10px;
+background-color: #ffffff;
+border-style: ridge;
+
 }
